@@ -3,27 +3,27 @@
 Projet conçu en équipe avec : @TeckIsHerex
 ## Le public cible
 
-- Pour qui : ...
-- Ce qui est important pour eux : ...
+- Pour qui : les gens 10 et +
+- Ce qui est important pour eux : plaisir et se sentir intel
 
 ## La conception
 
-- L'intrigue : ...
-- Le nombre d'énigmes : ...
-- Le type d'énigmes : ...
-- Les besoins matériels : ...
-- Les besoins technologiques : ...
-- Les besoins humains : ...
+- L'intrigue : dans un labyrinthe de maïs
+- Le nombre d'énigmes : 4 ou 5
+- Le type d'énigmes : puzzle, trucs d'équipe
+- Les besoins matériels : décor de ferme
+- Les besoins technologiques : lumières, son
+- Les besoins humains : aucun
 - Le plan des salles (croquis) :
 
 ![Plan des salles](plan-salles.jpg)
 
 ## Les éléments importants
 
-- Engagement sensoriel : ...
-- Conception spatiale : ...
-- Rétroaction : ...
-- Technologie invisible : ...
+- Engagement sensoriel : foin, maïs séché
+- Conception spatiale : dusk
+- Rétroaction : idk
+- Technologie invisible : lumière, son
 
 ## Les risques et la sécurité
 
